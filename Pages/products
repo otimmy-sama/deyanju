@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Deyanj</title>
+   <nav>
+      <UL>
+         <li>
+           <a href="about us.html">ABOUT US</a>
+        </li>
+  
+         <li>
+           <a href="products">PRODUCTS</a>
+          </li> 
+  
+         <li>
+           <a href="contact">CONTACTS</a>
+          </li> 
+      </UL>
+     
+     </nav>
+  
+</head>
+<body>
+    <ul>
+
+        <li> Shea nuts </li> 
+        <li>Cocoa</li> 
+        <li>Cashew nuts</li>
+        <li>Soybeans</li> 
+        <li> Maize </li>
+        <li>Sorgum </li> 
+        <li> Sesame seeds</li>
+        <li>Paddy rice</li>
+   </ul>
+   
+   
+   
+   <p> SHEA NUTS</p><img src="/images/SHEA NUT 1.jpg" width="900">
+   <hr>
+   <img src="/images/SHEA NUT 2.jpg" width="900" >
+   <hr>
+   <img src="/images/SHEA NUT 3.jpg" width="900" >
+   
+   
+   <hr>
+   
+   
+   
+   <p>COCOA</p>
+   <IMG src="/images/COCOA 1.jpg" width="900" > <br>
+   <hr>
+   
+       <IMG src="/images/COCOA 2.jpg" width="900" >
+           <hr>
+           <IMG src="/images/COCOA SQUAD.jpg" width="900" >
+    <hr>
+    <p>CASHEW NUTS</p>
+   
+    <img src="/images/CASHEW NUTS 1.jpg" width="900" >
+    <hr>
+    <img src="/images/CASHEW NUTS 2.jpg" width="900"  >
+    <hr>
+    <p>SOY BEANS</p>
+   
+    <img src="/images/SOY BEANS 1.jpg" width="900" >
+    <hr>
+   
+    <p>MAIZE</p>
+   
+    <img src="/images/MAISE 1.jpg" width="900" >
+    <hr>
+    <img src="/images/MAIZE 2.jpg" width="900" >
+   
+   
+   
+    <p>SORGUM</p>
+   
+    <img src="/images/SORGUM 1.jpg" width="900"  >
+    <hr>
+   
+    
+   
+    
+    <p>SESAME SEEDS</p>
+   
+    <img src="/images/SESAME SEEDS 1.jpg" width="900" >
+    <hr>
+   
+    <img src="/images/SESAME SEEDS 2.jpg" width="900" >
+    <hr>
+   
+    
+    <p>PADDY RICE</p>
+   
+    <img src="/images/rice 1.png.jpg" width="900" >
+    <hr>
+    <img src="/images/rice.png.jpg" width="900" >
+</body>
+</html>
